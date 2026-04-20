@@ -1,4 +1,5 @@
 # GAS Demo
+基于 GAS 系统的简易Demo，使用 Git LFS 管理资产
 
 ## 主要包含内容
 1. 鼠标左键 - 基于GameplayAbility的普通三连攻击
